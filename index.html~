@@ -1,7 +1,7 @@
 <html>
   <head>	
     <title> Analizador CSV </title>
-    <link htrf="global.css" rel="stylesheet" type="text/css">
+    <link href="global.css" rel="stylesheet" type="text/css">
     
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -10,10 +10,13 @@
   </head>
   
   <body>
-    <h1>Comma Separated Value Analyzer
+    <hr size="15" />
+    <h1>Comma Separated Value Analyzer</h1>
+    
     <div> <!--Letra tipo italica -->
-      <i>Escriba una cadena CSV. Pulse el boton de la tabla. El programa lanzará una taba con los datos especificos.</i>
+      <i>Escriba una cadena CSV. Pulse el boton de la tabla. El programa lanzara una taba con los datos especificos.</i>
     </div>
+    <hr size="15" />
     <table>
       <tr>
 	<th> Cadena CSV:</th>

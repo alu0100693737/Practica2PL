@@ -4,7 +4,7 @@ html *
 }
 
 body {
-
+font: small-caps 100%/200% serif;
 background-color:#9FF781;
 }
 
