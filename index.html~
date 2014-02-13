@@ -25,6 +25,5 @@
     </table>
     <button type="button">table:</button><br> <!-- <br> salto de linea-->
     <span class="output" id="finaltable"></span>
-    <i>Pulse aqui para acceder a los tests: <a href="tests/index.html"> Tests</a></i>	
   </body>
 </html>
