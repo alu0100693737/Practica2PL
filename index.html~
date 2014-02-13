@@ -12,7 +12,6 @@
   <body>
     <hr size="15" />
     <h1>Comma Separated Value Analyzer</h1>
-    
     <div> <!--Letra tipo italica -->
       <i>Escriba una cadena CSV. Pulse el boton de la tabla. El programa lanzara una taba con los datos especificos.</i>
     </div>
@@ -26,5 +25,6 @@
     </table>
     <button type="button">table:</button><br> <!-- <br> salto de linea-->
     <span class="output" id="finaltable"></span>
+    <i>Pulse aqui para acceder a los tests: <a href="tests/index.html"> Tests</a></i>	
   </body>
 </html>
